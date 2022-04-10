@@ -1,4 +1,4 @@
-# instrumentation_cw
+# Instrumentation Coursework
 
 This is a group project completed by Ellis Collins and Kevin Rodrigues as a part of a coursework for the Instrumentation Module.
 
